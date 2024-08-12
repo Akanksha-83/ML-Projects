@@ -1,0 +1,1 @@
+Developed machine learning projects: Heart Disease Prediction, Diabetes Prediction, SPAM Prediction, Chatbot, Image Classification. Utilized patient data, natural language processing, convolutional neural networks. Demonstrated expertise in data analysis, model development, deployment
